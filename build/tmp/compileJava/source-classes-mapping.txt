@@ -1,0 +1,17 @@
+fr/ordinalteam/bot/music/music/AudioHandler.java
+ fr.ordinalteam.bot.music.music.AudioHandler
+fr/ordinalteam/bot/music/music/MusicManager.java
+ fr.ordinalteam.bot.music.music.MusicManager
+ fr.ordinalteam.bot.music.music.MusicManager$1
+fr/ordinalteam/bot/music/commands/CommandSkip.java
+ fr.ordinalteam.bot.music.commands.CommandSkip
+fr/ordinalteam/bot/music/music/MusicPlayer.java
+ fr.ordinalteam.bot.music.music.MusicPlayer
+fr/ordinalteam/bot/music/music/AudioListener.java
+ fr.ordinalteam.bot.music.music.AudioListener
+fr/ordinalteam/bot/music/commands/CommandClear.java
+ fr.ordinalteam.bot.music.commands.CommandClear
+fr/ordinalteam/bot/music/commands/CommandPlay.java
+ fr.ordinalteam.bot.music.commands.CommandPlay
+fr/ordinalteam/bot/music/Main.java
+ fr.ordinalteam.bot.music.Main
